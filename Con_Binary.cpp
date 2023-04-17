@@ -18,7 +18,7 @@ int main() {
 	return 0;
 }
 
-//Funcion para convertir el numero a decimal
+//Funcion para convertir el decimal a binario
 void Convertidor_Binario (int decimal) {
 
 	int guardar = decimal;
